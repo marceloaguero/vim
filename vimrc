@@ -8,3 +8,5 @@ set backspace=indent,eol,start
 set number
 set relativenumber
 
+inoremap jk <ESC>
+
