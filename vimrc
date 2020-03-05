@@ -28,6 +28,7 @@ filetype plugin indent on    " required
 
 syntax on
 set shell=/bin/zsh
+set nowrap                      " Don't cut long lines, please
 set expandtab										" Convert <tab> to spaces
 set tabstop=2										" Spaces per tab
 set shiftwidth=2								"   then override per filetype
